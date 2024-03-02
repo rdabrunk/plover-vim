@@ -68,7 +68,7 @@ right_hand = {
 
 defaults = {
         "disable_defaults": True,
-        "command_suffix": "{plover:clear_trans_state}",
+        "command_suffix": "{^^}",
         "spelling": spelling,
         "symbols": symbols,
         "shifted": shifted_symbols_aus,

@@ -50,7 +50,7 @@ middles = {
 defaults = {
     "disable_defaults": False,
     # any dictionary entry overiddes the defaults
-    "command_suffix": "{plover:clear_trans_state}",
+    "command_suffix": "{^^}",
     "symbols": symbols,  # dict: right hand symbols
     "objects": objects,  # dict: right hand objects
     "shifted": shifted_symbols_aus,
